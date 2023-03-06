@@ -5,9 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background: url('https://images.pexels.com/photos/842711/pexels-photo-842711.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover; */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.conteiner{
+  max-width: 800px;
+  margin: 0 auto;
 }
